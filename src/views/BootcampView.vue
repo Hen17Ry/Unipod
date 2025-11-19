@@ -72,7 +72,7 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h1 class="text-5xl md:text-6xl font-bold mb-6">
-          Bootcamp <span class="text-gradient">2024</span>
+          Bootcamp <span class="text-gradient">2025</span>
         </h1>
         <p class="text-xl text-text-secondary max-w-3xl mx-auto mb-12">
           Transformez votre passion pour la tech en carrière professionnelle en 20 semaines
