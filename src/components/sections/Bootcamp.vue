@@ -50,7 +50,7 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h2 class="text-4xl md:text-5xl font-bold mb-6">
-          Bootcamp <span class="text-gradient">2024</span>
+          Bootcamp <span class="text-gradient">2025</span>
         </h2>
         <p class="text-xl text-text-secondary max-w-3xl mx-auto">
           Un programme intensif de 20 semaines pour devenir développeur Full Stack
